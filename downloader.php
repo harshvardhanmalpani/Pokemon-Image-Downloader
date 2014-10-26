@@ -19,4 +19,5 @@ if ($handle) {
     // error opening the file.
 } 
 fclose($handle);
+// by harshvardhan malpani
 ?>
